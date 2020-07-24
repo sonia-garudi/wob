@@ -1,4 +1,4 @@
-Update 2
+Update 3
 
 # wob — Wayland Overlay Bar
 
